@@ -1,0 +1,2 @@
+# acc	precision	recall	fscore	auroc	auroc_lower	auroc_upper
+0.9593	0.9548	0.9697	0.9622	0.9942	0.9940	0.9943
