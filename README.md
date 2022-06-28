@@ -1,5 +1,7 @@
 # Inter-turn Short Circuit Fault (ISCF) Detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6774360.svg)](https://doi.org/10.5281/zenodo.6774360)
+
 This repository is the official implementation of [Neural Networks Detect Inter-Turn Short Circuit Faults Using Inverter Switching Statistics](https://doi.org/10.36227/techrxiv.19145444.v1). 
 
 This study developed neural network models using inverter switching statistics to detect the inter-turn short circuit fault (ISCF) of an induction machine (IM). The IM was driven by an inverter with a model predictive control algorithm. The method was non-invasive, and it did not require any additional sensors.
